@@ -40,7 +40,6 @@ eclipsebin
 *testclasses.xml
 *.
 *_bof.jar
-.classpath
 .springBeans
 *wro_addons.xml
 .idea

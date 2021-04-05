@@ -45,11 +45,6 @@
       "template": "yacceleratorstorefront"
     },
     {
-      "addon": "personalizationsearchsamplesaddon",
-      "storefront": "customeraccstorefront",
-      "template": "yacceleratorstorefront"
-    },
-    {
       "addon": "textfieldconfiguratortemplateaddon",
       "storefront": "customeraccstorefront",
       "template": "yacceleratorstorefront"

@@ -73,6 +73,11 @@
       "addon": "profiletagaddon",
       "storefront": "customeraccstorefront",
       "template": "yacceleratorstorefront"
+    },
+    {
+      "addon": "personalizationaddon",
+      "storefront": "customeraccstorefront",
+      "template": "yacceleratorstorefront"
     }
 	
 	
@@ -196,7 +201,7 @@
         },
         {
           "name": "occ",
-          "contextPath": "/occ"
+          "contextPath": ""
         }
       ]
     }

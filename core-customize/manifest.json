@@ -78,7 +78,14 @@
       "addon": "personalizationaddon",
       "storefront": "customeraccstorefront",
       "template": "yacceleratorstorefront"
+    },
+    {
+      "addon": "assistedservicestorefront",
+      "storefront": "customeraccstorefront",
+      "template": "yacceleratorstorefront"
     }
+	
+	
 	
 	
 
@@ -200,8 +207,8 @@
           "contextPath": "/hac"
         },
         {
-          "name": "occ",
-          "contextPath": ""
+          "name": "commercewebservices",
+          "contextPath": "/occ"
         }
       ]
     }

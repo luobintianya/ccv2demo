@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <classpath>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        	
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            	
+    
     
     
     
@@ -299,7 +300,8 @@
     
     
     <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        	
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            	
+    
     
     
     
@@ -598,7 +600,8 @@
     
     
     <classpathentry kind="output" path="eclipsebin/notused"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        	
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            	
+    
     
     
     
@@ -897,7 +900,8 @@
     
     
     <classpathentry exported="true" kind="src" path="/acceleratorstorefrontcommons"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        	
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            	
+    
     
     
     
@@ -1196,7 +1200,8 @@
     
     
     <classpathentry exported="true" kind="src" path="/yacceleratorfacades"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        	
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            	
+    
     
     
     
@@ -1495,7 +1500,8 @@
     
     
     <classpathentry exported="false" kind="lib" path="web/webroot/WEB-INF/lib/javax.servlet.jsp.jstl-1.2.5.jar"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        	
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            	
+    
     
     
     
@@ -1794,7 +1800,8 @@
     
     
     <classpathentry exported="false" kind="lib" path="web/webroot/WEB-INF/lib/json-taglib-0.4.1.jar"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        	
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            	
+    
     
     
     
@@ -2093,7 +2100,8 @@
     
     
     <classpathentry exported="false" kind="lib" path="web/webroot/WEB-INF/lib/jsoup-1.11.3.jar"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        	
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            	
+    
     
     
     
@@ -2392,7 +2400,8 @@
     
     
     <classpathentry exported="false" kind="lib" path="web/webroot/WEB-INF/lib/rhino-1.7.7.jar"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        	
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            	
+    
     
     
     
@@ -2691,7 +2700,8 @@
     
     
     <classpathentry exported="false" kind="lib" path="web/webroot/WEB-INF/lib/wro4j-core-1.8.0.jar"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        	
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            	
+    
     
     
     
@@ -2990,7 +3000,8 @@
     
     
     <classpathentry exported="true" kind="lib" path="resources"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        	
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            	
+    
     
     
     
@@ -3289,7 +3300,8 @@
     
     
     <classpathentry exported="false" kind="src" output="eclipsebin/web/classes" path="web/src"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        	
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            	
+    
     
     
     
@@ -3588,7 +3600,8 @@
     
     
     <classpathentry exported="false" kind="src" output="eclipsebin/web/classes" path="web/testsrc"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        	
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            	
+    
     
     
     
@@ -3887,7 +3900,7 @@
     
     
     <classpathentry exported="false" kind="src" path="/platform"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
     
     
     
@@ -12600,6 +12613,7 @@
     
     
                                                                                                                                 
+    
     
     
     
@@ -12633,7 +12647,8 @@
     
     
     <classpathentry combineaccessrules="false" kind="src" path="/adaptivesearchsamplesaddon"/>
-                                                                                                                                    
+                                                                                                                                        
+    
     
     
     
@@ -12666,7 +12681,8 @@
     
     
     <classpathentry combineaccessrules="false" kind="src" path="/assistedservicecustomerinterestsaddon"/>
-                                                                                                                                
+                                                                                                                                    
+    
     
     
     
@@ -12698,7 +12714,7 @@
     
     
     <classpathentry combineaccessrules="false" kind="src" path="/assistedservicepromotionaddon"/>
-                                                                                                                            
+                                                                                                                                
     
     
     
@@ -12728,7 +12744,7 @@
     
     
     
-    <classpathentry combineaccessrules="false" kind="src" path="/assistedservicestorefront"/>
+    
                                                                                                                         
     
     
@@ -12758,8 +12774,10 @@
     
     
     
+    
     <classpathentry combineaccessrules="false" kind="src" path="/assistedserviceyprofileaddon"/>
-                                                                                                                    
+                                                                                                                        
+    
     
     
     
@@ -12788,7 +12806,8 @@
     
     
     <classpathentry combineaccessrules="false" kind="src" path="/captchaaddon"/>
-                                                                                                                
+                                                                                                                    
+    
     
     
     
@@ -12816,7 +12835,8 @@
     
     
     <classpathentry combineaccessrules="false" kind="src" path="/configurablebundleaddon"/>
-                                                                                                            
+                                                                                                                
+    
     
     
     
@@ -12843,7 +12863,8 @@
     
     
     <classpathentry combineaccessrules="false" kind="src" path="/consignmenttrackingaddon"/>
-                                                                                                        
+                                                                                                            
+    
     
     
     
@@ -12869,7 +12890,8 @@
     
     
     <classpathentry combineaccessrules="false" kind="src" path="/customercouponaddon"/>
-                                                                                                    
+                                                                                                        
+    
     
     
     
@@ -12894,7 +12916,8 @@
     
     
     <classpathentry combineaccessrules="false" kind="src" path="/customercouponsamplesaddon"/>
-                                                                                                
+                                                                                                    
+    
     
     
     
@@ -12918,7 +12941,8 @@
     
     
     <classpathentry combineaccessrules="false" kind="src" path="/customerinterestsaddon"/>
-                                                                                            
+                                                                                                
+    
     
     
     
@@ -12941,7 +12965,8 @@
     
     
     <classpathentry combineaccessrules="false" kind="src" path="/customerticketingaddon"/>
-                                                                                        
+                                                                                            
+    
     
     
     
@@ -12963,7 +12988,8 @@
     
     
     <classpathentry combineaccessrules="false" kind="src" path="/eventtrackingwsaddon"/>
-                                                                                    
+                                                                                        
+    
     
     
     
@@ -12984,7 +13010,8 @@
     
     
     <classpathentry combineaccessrules="false" kind="src" path="/merchandisingaddon"/>
-                                                                                
+                                                                                    
+    
     
     
     
@@ -13004,7 +13031,8 @@
     
     
     <classpathentry combineaccessrules="false" kind="src" path="/merchandisingstorefrontsampledataaddon"/>
-                                                                            
+                                                                                
+    
     
     
     
@@ -13023,7 +13051,8 @@
     
     
     <classpathentry combineaccessrules="false" kind="src" path="/multicountrysampledataaddon"/>
-                                                                        
+                                                                            
+    
     
     
     
@@ -13041,7 +13070,8 @@
     
     
     <classpathentry combineaccessrules="false" kind="src" path="/notificationaddon"/>
-                                                                    
+                                                                        
+    
     
     
     
@@ -13058,7 +13088,8 @@
     
     
     <classpathentry combineaccessrules="false" kind="src" path="/ordermanagementaddon"/>
-                                                                
+                                                                    
+    
     
     
     
@@ -13074,7 +13105,8 @@
     
     
     <classpathentry combineaccessrules="false" kind="src" path="/orderselfserviceaddon"/>
-                                                            
+                                                                
+    
     
     
     
@@ -13089,7 +13121,8 @@
     
     
     <classpathentry combineaccessrules="false" kind="src" path="/pcmbackofficesamplesaddon"/>
-                                                        
+                                                            
+    
     
     
     
@@ -13103,7 +13136,8 @@
     
     
     <classpathentry combineaccessrules="false" kind="src" path="/personalizationaddon"/>
-                                                    
+                                                        
+    
     
     
     
@@ -13116,7 +13150,8 @@
     
     
     <classpathentry combineaccessrules="false" kind="src" path="/personalizationsampledataaddon"/>
-                                                
+                                                    
+    
     
     
     
@@ -13128,7 +13163,8 @@
     
     
     <classpathentry combineaccessrules="false" kind="src" path="/personalizationyprofilesampledataaddon"/>
-                                            
+                                                
+    
     
     
     
@@ -13139,7 +13175,8 @@
     
     
     <classpathentry combineaccessrules="false" kind="src" path="/profiletagaddon"/>
-                                        
+                                            
+    
     
     
     
@@ -13149,7 +13186,8 @@
     
     
     <classpathentry combineaccessrules="false" kind="src" path="/selectivecartsplitlistaddon"/>
-                                    
+                                        
+    
     
     
     
@@ -13158,7 +13196,8 @@
     
     
     <classpathentry combineaccessrules="false" kind="src" path="/smarteditaddon"/>
-                                
+                                    
+    
     
     
     
@@ -13166,34 +13205,42 @@
     
     
     <classpathentry combineaccessrules="false" kind="src" path="/stocknotificationaddon"/>
-                            
+                                
     
     
     
     
     
                     
+    
     
     
     
     
     <classpathentry combineaccessrules="false" kind="src" path="/timedaccesspromotionengineaddon"/>
-                    
+                        
+    
     
     
     
     <classpathentry combineaccessrules="false" kind="src" path="/timedaccesspromotionenginesamplesaddon"/>
-                
+                    
+    
     
     
     <classpathentry combineaccessrules="false" kind="src" path="/xyformssamples"/>
-            
+                
+    
     
     <classpathentry combineaccessrules="false" kind="src" path="/xyformsstorefrontcommons"/>
-        
+            
+    
     <classpathentry combineaccessrules="false" kind="src" path="/ysapproductconfigaddon"/>
+        
     <classpathentry combineaccessrules="false" kind="src" path="/textfieldconfiguratortemplateaddon"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        				
+    <classpathentry combineaccessrules="false" kind="src" path="/assistedservicestorefront"/>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            				
+
 
 
 

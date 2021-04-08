@@ -68,6 +68,11 @@
       "addon": "ordermanagementaddon",
       "storefront": "customeraccstorefront",
       "template": "yacceleratorstorefront"
+    },
+    {
+      "addon": "profiletagaddon",
+      "storefront": "customeraccstorefront",
+      "template": "yacceleratorstorefront"
     }
 
   ],

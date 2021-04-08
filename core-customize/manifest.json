@@ -73,47 +73,9 @@
       "addon": "profiletagaddon",
       "storefront": "customeraccstorefront",
       "template": "yacceleratorstorefront"
-    },
-    {
-      "addon": "personalizationaddon",
-      "storefront": "customeraccstorefront",
-      "template": "yacceleratorstorefront"
-    },
-    {
-      "addon": "orderselfserviceaddon",
-      "storefront": "customeraccstorefront",
-      "template": "yacceleratorstorefront"
-    },
-    {
-      "addon": "notificationaddon",
-      "storefront": "customeraccstorefront",
-      "template": "yacceleratorstorefront"
-    },
-    {
-      "addon": "merchandisingaddon",
-      "storefront": "customeraccstorefront",
-      "template": "yacceleratorstorefront"
-    },
-    {
-      "addon": "customercouponaddon",
-      "storefront": "customeraccstorefront",
-      "template": "yacceleratorstorefront"
-    },
-    {
-      "addon": "configurablebundleaddon",
-      "storefront": "customeraccstorefront",
-      "template": "yacceleratorstorefront"
-    },
-    {
-      "addon": "assistedservicepromotionaddon",
-      "storefront": "customeraccstorefront",
-      "template": "yacceleratorstorefront"
-    },
-    {
-      "addon": "assistedservicecustomerinterestsaddon",
-      "storefront": "customeraccstorefront",
-      "template": "yacceleratorstorefront"
     }
+	
+	
 
 
   ],

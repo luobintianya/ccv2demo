@@ -12,5 +12,5 @@ https://accstorefront.cg8cr5xpc9-xxxxxhold1-d1-public.model-t.ccv2prod.sapcloud.
 
 Cx(SAP Commerce Cloud 2011) demo
 Include powertools, electronics, apparel-de, apparel-uk site.
-you can used this repository  redircet deploy to ccv2 portal. username/password: ccv2x/ccv2x
+you can use this repository  redircet deploy to ccv2 portal. username/password: ccv2x/ccv2x
 
